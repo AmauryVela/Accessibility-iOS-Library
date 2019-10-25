@@ -23,6 +23,12 @@
 - [ ] [Deliver an Exceptional Accessibility Experience](https://developer.apple.com/videos/play/wwdc2018/230/)
 - [ ] [VoiceOver: App Testing Beyond The Visuals](https://developer.apple.com/videos/play/wwdc2018/226/)
 
+### WWDC 2019
+- [ ] [Visual Design Accessibility](https://developer.apple.com/videos/play/wwdc2019/244/)
+- [ ] [Accessibility Inspector](https://developer.apple.com/videos/play/wwdc2019/257/)
+- [ ] [Writing Great Accessibility Labels](https://developer.apple.com/videos/play/wwdc2019/254/)
+- [ ] [Accessibility Custom Actions](https://developer.apple.com/videos/play/wwdc2019/250/)
+
 ## Articles 
 - [ ] [The details that make a great app](https://cur.at/uzH0kLc?m=web)
 - [ ] [Improving accessibility for iOS app](https://medium.com/snowdog-labs/accessibility-for-ios-apps)
